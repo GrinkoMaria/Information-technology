@@ -1,31 +1,26 @@
-# Курсовая работа · бланк сдачи
+# Курсовая работа · ТЗ-19 Школа танцев «Ритм Холл»
 
-**Студент:** ___
-**Группа:** ___
-**ТЗ:** № ___ · компания «___»
+**Дисциплина:** ОП.03 «Информационные технологии»
+**Студент:** Гринько Мария
+**Группа:** РПО-3 2025
 
-## Ссылки
+## 1. Ссылки на проект
 
 | Что | Ссылка |
 |---|---|
-| Репозиторий проекта | ___ |
-| Сайт на Vercel | ___ |
-| Описание работы `docs/opisanie.md` | ___ |
-| Презентация `presentation/zashchita.pdf` | ___ |
-| Таблица заявок (доступ на просмотр) | ___ |
-| Дашборд DataLens | ___ |
-| Reel с автоответом | ___ |
+| **Репозиторий с курсовой работой** | [https://github.com/GrinkoMaria/tz-19-shkola-tancev-ritm-holl](https://github.com/GrinkoMaria/tz-19-shkola-tancev-ritm-holl) |
+| **Работающий сайт на Vercel** | [https://tz-19-shkola-tancev-ritm-holl-liart.vercel.app/](https://tz-19-shkola-tancev-ritm-holl-liart.vercel.app/) |
+| **Аналитическая записка (report.md)** | [docs/report.md](https://github.com/GrinkoMaria/tz-19-shkola-tancev-ritm-holl/blob/main/docs/report.md) |
+| **Презентация к защите (PPTX)** | [docs/presentation.pptx](https://github.com/GrinkoMaria/tz-19-shkola-tancev-ritm-holl/blob/main/docs/presentation.pptx) |
+| **Google Таблица с заявками** | [RitmHall — Leads](https://docs.google.com/spreadsheets/d/1q4yhypFDfpAM5hyjvhd4LY7HJZ11wUMMmuJId_M60Ic/edit?usp=sharing) |
+| **Ресурс GA4** | G-K0RDRQXZ9W |
 
-**Measurement ID ресурса GA4:** G-___
-**Доступ Viewer к ресурсу GA4 выдан:** ___ (e-mail преподавателя)
+## 2. Краткое описание проекта
 
-## Перед отправкой
+В рамках курсовой работы был разработан сайт для школы танцев «Ритм Холл» (11 страниц), настроена сквозная аналитика на базе Google Analytics 4, а также реализован приём заявок через Google Apps Script в Google Таблицу. 
 
-- [ ] Репозиторий публичный, у него заполнены описание, Website и Topics
-- [ ] README проекта начинается с таблицы ссылок, все ссылки открываются
-- [ ] В `docs/opisanie.md` все кадры на месте, пустых `___` нет
-- [ ] Схема работы лежит в `docs/scheme.png` и есть в презентации
-- [ ] Презентация в PDF, доклад укладывается в 7 минут
+Дополнительно настроена CRM HubSpot и автоматизация автоответов через ManyChat (Telegram-бот).
 
-**Не получилось:** ___
-**ИИ:** не использовал / использовал для ___
+## 3. Защита
+
+Презентация к защите рассчитана на 7 минут и состоит из 12 слайдов.
